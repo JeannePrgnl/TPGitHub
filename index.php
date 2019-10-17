@@ -38,7 +38,7 @@
 	<div id="Bandeau">
 		<div class="fondDiv"></div>
 		<div class="contenuDiv">
-			bandeau de mon super site vraiment génial génial génial ! bla bla
+			bandeau de mon super site vraiment génial génial génial ! bla bla ! Clément est arrivée
 		</div>
 	</div>
 		
